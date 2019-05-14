@@ -1,4 +1,4 @@
-本项目中所有内容，采用[知识共享署名-相同方式共享 4.0 国际 (CC BY-SA 4.0 ) ](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)许可证授权。
+本项目中所有内容，采用[知识共享署名-相同方式共享 4.0 国际 (CC BY-SA 4.0 ) ](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)   ![](/static/images/ccbysa.png) 许可证授权。
 
 ### Q：为何要做开源的戈德堡机课程？
 2019.5.10~14, 短短四天群岛活动中，我被群岛伙伴们对戈德堡机的热情所鼓舞，决心要让它惠及更多人。  
@@ -22,6 +22,9 @@
 整个创作过程中的课程都会用本 github repository 来存储并进行版本管理。  
 技术相关的主创是艾芙(Elfe Xu)。  
 PBL相关的主创是三有的伙伴。  
-欢迎各位伙伴加入创作队伍。当然，加入的前提条件是你足够感兴趣并且已经在进行实践。
-如有兴趣可以直接找艾芙交流，或在南瓜博士(nangua_boshi)公众号留言。如果你会使用 github，欢迎直接通过写wiki/提issue/提交PR来为项目做贡献。  
+欢迎各位伙伴加入创作队伍。当然，加入的前提条件是你足够感兴趣并且已经在进行实践。  
+如果你会使用 github，欢迎直接通过写wiki/提issue/提交PR来为项目做贡献。  
+如果 github 对你来说太复杂，你也可以在南瓜博士(nangua_boshi)公众号留言，用分享石墨甚至 word 文档的方式参与共创。  
+![](/static/images/nangua_boshi.png)
+
 
